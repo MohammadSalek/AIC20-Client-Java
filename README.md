@@ -1,4 +1,9 @@
 # AI Challenge 2019 Java Client
+
+## My Notes:
+
+##### This is the client code we used for our final submission in AIC20.</br>Check out [AI.java](../master/src/Client/AI.java) file for more details.
+
 ## Setup instructions
 
 It is recommended to use IntelliJ IDEA(JetBrains):
