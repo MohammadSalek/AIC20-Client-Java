@@ -2,7 +2,7 @@
 
 ## My Notes:
 
-##### This is the client code we used for our final submission in AIC20.</br>Check out [AI.java](../master/src/Client/AI.java) file for more details.
+##### This is the client code we used for our final submission in AIC20. (Team Infocoil)</br>Check out [AI.java](../master/src/Client/AI.java) file for more details.
 
 ## Setup instructions
 
